@@ -1,0 +1,1 @@
+# Barcode Details scanner.
