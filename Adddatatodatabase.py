@@ -15,7 +15,7 @@ data = {
             "name": "Dwayne Johnson",
             "major": "Mechanical",
             "starting_year": "2021",
-            "total_attendance": "1",
+            "total_attendance": 1,
             "gpa": "9.1",
             "year": "3",
             "last_attendance_time": "00:00:00 01-01-2023"
@@ -26,7 +26,7 @@ data = {
             "name": "Makato Shinkai",
             "major": "Arts",
             "starting_year": "2021",
-            "total_attendance": "2",
+            "total_attendance": 2,
             "gpa": "9.3",
             "year": "2",
             "last_attendance_time": "00:00:00 01-01-2023"
@@ -37,7 +37,7 @@ data = {
             "name": "Olivia Rodrigo",
             "major": "Arts",
             "starting_year": "2022",
-            "total_attendance": "3",
+            "total_attendance": 3,
             "gpa": "8.6",
             "year": "1",
             "last_attendance_time": "00:00:00 01-01-2023"
@@ -48,7 +48,7 @@ data = {
             "name": "Afsal Ahmad",
             "major": "Machine Learning",
             "starting_year": "2022",
-            "total_attendance": "4",
+            "total_attendance": 4,
             "gpa": "8.4",
             "year": "1",
             "last_attendance_time": "00:00:00 01-01-2023"
@@ -59,7 +59,7 @@ data = {
             "name": "Mugesh Ram Sundar",
             "major": "Machine Learning",
             "starting_year": "2022",
-            "total_attendance": "1",
+            "total_attendance": 1,
             "gpa": "8.4",
             "year": "1",
             "last_attendance_time": "00:00:00 01-01-2023"
@@ -70,12 +70,22 @@ data = {
             "name": "Ronnie Coleman",
             "major": "Ece",
             "starting_year": "2020",
-            "total_attendance": "3",
+            "total_attendance": 3,
             "gpa": "9.8",
             "year": "4",
             "last_attendance_time": "00:00:00 01-01-2023"
-        }
+        },
 
+    "07dh":
+        {
+            "name": "Dharaneesh",
+            "major": "Machine Learning",
+            "starting_year": "2022",
+            "total_attendance": 1,
+            "gpa": "9.0",
+            "year": "1",
+            "last_attendance_time": "00:00:00 01-01-2023"
+        }
 }
 
 for key, value in data.items():
