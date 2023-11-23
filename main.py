@@ -15,6 +15,7 @@ firebase_admin.initialize_app(cred,{
     'databaseURL': "https://face-attendance-cv-default-rtdb.asia-southeast1.firebasedatabase.app/",
     'storageBucket': "face-attendance-cv.appspot.com"
 })
+
 bucket = storage.bucket()
 
 cap = cv2.VideoCapture(0)
