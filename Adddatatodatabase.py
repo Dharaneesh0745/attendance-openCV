@@ -85,6 +85,16 @@ data = {
             "gpa": "9.0",
             "year": "1",
             "last_attendance_time": "00:00:00 01-01-2023"
+        },
+    "08sa":
+        {
+            "name": "Sanjeevi Kumar",
+            "major": "Data Science",
+            "starting_year": "2022",
+            "total_attendance": 1,
+            "gpa": "10.0",
+            "year": "1",
+            "last_attendance_time": "00:00:00 01-01-2023"
         }
 }
 
